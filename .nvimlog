@@ -1,0 +1,9 @@
+WARN  2022-02-06T14:33:31.545 98099 log_path_init:96: Failed to create directory /Users/lantianyou/.cache/nvim for writing logs: Unknown system error 1
+WARN  2022-02-06T14:35:22.288 98443 log_path_init:96: Failed to create directory /Users/lantianyou/.cache/nvim for writing logs: Unknown system error 1
+WARN  2022-02-06T14:36:30.346 98602 log_path_init:96: Failed to create directory /Users/lantianyou/.cache/nvim for writing logs: Unknown system error 1
+WARN  2022-02-06T14:36:55.113 98851 log_path_init:96: Failed to create directory /Users/lantianyou/.cache/nvim for writing logs: Unknown system error 1
+WARN  2022-02-06T17:50:22.700 384   log_path_init:96: Failed to create directory /Users/lantianyou/.cache/nvim for writing logs: Unknown system error 1
+WARN  2022-02-06T17:58:37.163 2725  log_path_init:96: Failed to create directory /Users/lantianyou/.cache/nvim for writing logs: Unknown system error 1
+WARN  2022-02-06T17:58:53.791 2861  log_path_init:96: Failed to create directory /Users/lantianyou/.cache/nvim for writing logs: Unknown system error 1
+WARN  2022-02-06T18:01:33.469 3261  log_path_init:96: Failed to create directory /Users/lantianyou/.cache/nvim for writing logs: Unknown system error 1
+WARN  2022-02-06T18:02:45.829 3761  log_path_init:96: Failed to create directory /Users/lantianyou/.cache/nvim for writing logs: Unknown system error 1
